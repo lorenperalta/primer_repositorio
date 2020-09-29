@@ -2,4 +2,5 @@
 
 ## Autor 
 
-Loren Stin
+* Loren Stin 
+* Juan Perez
