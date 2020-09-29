@@ -1,2 +1,5 @@
-# primer_repositorio
-learning github my friend 
+# primer_repositorio de GitHub
+
+## Autor 
+
+Loren Stin
